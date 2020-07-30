@@ -16,3 +16,5 @@ first.
 While better be the initial guess, faster and correct will be the fit.
 
 For more information see the attached thesis.
+
+![img0](Example_CQW_PL_Nonlinear_Least_Squares_Fit.png)
