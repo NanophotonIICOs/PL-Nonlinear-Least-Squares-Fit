@@ -18,5 +18,5 @@ While better be the initial guess, faster and correct will be the fit.
 For more information see the attached thesis.
 
 <p align="center">
-  <img width="500" height="500" src="Example_CQW_PL_Nonlinear_Least_Squares_Fit.png">
+  <img width="758" height="500" src="Example_CQW_PL_Nonlinear_Least_Squares_Fit.png">
 </p>
